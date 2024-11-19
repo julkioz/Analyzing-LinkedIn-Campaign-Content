@@ -1,0 +1,29 @@
+Start Date (in UTC),Account Name,Currency,Campaign Group ID,Campaign Group Name,Campaign Group Status,Campaign Group Start Date,Campaign Group End Date,Campaign Group Total Budget,Campaign ID,Campaign Name,Campaign Objective,Campaign Type,Campaign Status,Cost Type,Daily Budget,Total Budget,Campaign Start Date,Campaign End Date,Creative Name,Ad ID,Creative Status,Ad Introduction Text,Ad Headline,Ad Line,Click URL,Sponsored Update Type,DSC Name,Total Spent,Impressions,Clicks,post_length,word_count,includes_emojis,hashtag_count,includes_cta,includes_numbers,includes_product_description,includes_industry_description,Ad_Introduction_Text_Clean,Keyword_Extraction
+10/1/2024,Super Material,USD,123456789,Super ads 2024,Active,9/23/2024,12/31/2024,"10,000.00",123456789,Global test,Brand awareness,Sponsored Update,Completed,CPM,0,800,9/30/2024,10/4/2024,Ad1,987654321,Active,"🔧 Polyurethane Resins for Machinery Manufacturing Excellence 🔧
+Looking to improve equipment durability and efficiency?
+Our Polyurethane Resins are the #1 choice for machinery manufacturers. With advanced polymer synthesis, we help reduce wear and tear, saving you time and money.
+
+💪 Strengthen your machinery today!
+#MachineryManufacturing #Efficiency
+
+💻 Click here to discover more",My headline,,https://www.myurl.com/mylanding,DSC,Ad1,300,80000,100,382,53,True,3,True,True,True,True,"[('machinery', 3), ('polyurethane', 2), ('resins', 2), ('manufacturing', 1), ('excellence', 1), ('looking', 1), ('improve', 1), ('equipment', 1), ('durability', 1), ('choice', 1)]","['machinery', 'polyurethane', 'resins', 'advanced', 'choice', 'click', 'discover', 'durability', 'equipment', 'excellence']"
+10/1/2024,Super Material,USD,123456789,Super ads 2024,Active,9/23/2024,12/31/2024,"10,000.00",123456789,Global test,Brand awareness,Sponsored Update,Completed,CPM,0,800,9/30/2024,10/4/2024,Ad2,987654321,Active,"Polyurethane Resins for Machinery Manufacturing Excellence
+Looking to improve equipment durability and efficiency?
+Our Polyurethane Resins are the first choice for machinery manufacturers. With advanced polymer synthesis, we help reduce wear and tear, saving you time and money.
+
+Strengthen your machinery today!
+#MachineryManufacturing #Efficiency #PolymerTechnology
+
+Click here to discover more",My headline,,https://www.myurl.com/mylanding,DSC,Ad2,100,20000,30,396,50,False,3,True,False,True,True,"[('machinery', 3), ('polyurethane', 2), ('resins', 2), ('manufacturing', 1), ('excellence', 1), ('looking', 1), ('improve', 1), ('equipment', 1), ('durability', 1), ('first', 1)]","['machinery', 'polyurethane', 'resins', 'advanced', 'choice', 'click', 'discover', 'durability', 'equipment', 'excellence']"
+10/1/2024,Super Material,USD,123456789,Super ads 2024,Active,9/23/2024,12/31/2024,"10,000.00",123456789,Global test,Brand awareness,Sponsored Update,Completed,CPM,0,800,9/30/2024,10/4/2024,Ad3,987654321,Active,"🔧 Polyurethane Resins for Machinery Manufacturing Excellence 🔧
+Looking to improve equipment durability and efficiency?
+Our Polyurethane Resins are the #1 choice for machinery manufacturers. With advanced polymer synthesis, we help reduce wear and tear, saving you time and money.
+
+💪 Strengthen your machinery today!
+#MachineryManufacturing #Efficiency #PolymerTechnology",My headline,,https://www.myurl.com/mylanding,DSC,Ad3,250,80000,80,370,48,True,4,False,True,True,True,"[('machinery', 3), ('polyurethane', 2), ('resins', 2), ('manufacturing', 1), ('excellence', 1), ('looking', 1), ('improve', 1), ('equipment', 1), ('durability', 1), ('choice', 1)]","['machinery', 'polyurethane', 'resins', 'advanced', 'choice', 'durability', 'equipment', 'excellence', 'help', 'improve']"
+10/1/2024,Super Material,USD,123456789,Super ads 2024,Active,9/23/2024,12/31/2024,"10,000.00",123456789,Global test,Brand awareness,Sponsored Update,Completed,CPM,0,800,9/30/2024,10/4/2024,Ad4,987654321,Active,"Polyurethane Resins for Machinery Manufacturing Excellence
+Looking to improve equipment durability and efficiency?
+Our Polyurethane Resins are the #1 choice for machinery manufacturers. With advanced polymer synthesis, we help reduce wear and tear, saving you time and money.
+
+Strengthen your machinery today!
+#MachineryManufacturing #Efficiency #PolymerTechnology",My headline,,https://www.myurl.com/mylanding,DSC,Ad4,150,20000,50,364,45,False,4,False,True,True,True,"[('machinery', 3), ('polyurethane', 2), ('resins', 2), ('manufacturing', 1), ('excellence', 1), ('looking', 1), ('improve', 1), ('equipment', 1), ('durability', 1), ('choice', 1)]","['machinery', 'polyurethane', 'resins', 'advanced', 'choice', 'durability', 'equipment', 'excellence', 'help', 'improve']"
